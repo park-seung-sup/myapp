@@ -2,5 +2,5 @@
 <%
 	String a = "rrrrrr";
 	int b = 123;
-	int i = 12;
+	
 %>
