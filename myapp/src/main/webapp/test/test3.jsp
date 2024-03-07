@@ -1,6 +1,4 @@
 <%@ page contentType="text/html; charset=UTF-8"%>
 <%
-
-
+	String hi = "higgggg";
 %>
-<tr>ㅏㅔㅣㅗㅜ </tr>
